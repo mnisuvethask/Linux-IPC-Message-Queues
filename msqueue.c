@@ -1,4 +1,3 @@
-//To implement the communication between  two processes using message queues API using C programming
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
